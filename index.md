@@ -6,7 +6,7 @@
 
 
 
-[Here](ie582hw1v2.html) is my homework 1.
+
 
 
 
@@ -16,6 +16,14 @@
 
 
 You can use the [editor on GitHub](https://github.com/BU-IE-582/fall19-mehmetpurazer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+
+
+
+[Here](ie582hw1v2.html) is my homework 1.
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
