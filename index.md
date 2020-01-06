@@ -10,7 +10,7 @@
 
 [Here](Hw4_v2.html) is my homework 4.
 
-[Here](Project 1.html) is my final project html.
+[Here](Project 1.html) is my final project.
 
-[Here](Project 1.ipynb) is my final project ipynb.
+[Here](Project 1.ipynb) is my final project.
 
